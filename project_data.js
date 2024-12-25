@@ -24,7 +24,16 @@ export const project_data = [
         description:
             "Digicollect is a technology platform that provides intelligent, industrial solutions for companies within our focus sectors. It utilizes process rationalization to implement a digital platform while delivering business intelligence and adding value. It provides products and solutions for businesses at all phases of their growth cycle. From start-ups to mature businesses. It helps our customers adapt to a digital landscape to increase revenues and efficiency while reducing costs.",
         badges: ["Vue", "Django", "PostgresSQL", "GoDaddy"],
-        live: "https://bemusic.vebto.com/",
+        live: "https://digicollect.com/",
+    },
+    {
+        title: "Distiller",
+        image: "distiller.png",
+        subtitle: "Distiller evaluation and expert advisory platform",
+        description:
+            "Distiller is a digital platform that provides expert advisory services to distilleries and other businesses in the spirits industry. The platform connects distilleries with a network of industry experts who can provide guidance on various aspects of the distillation process, including recipe development, equipment selection, quality control, and more. Distiller also offers a range of tools and resources to help distilleries manage their operations more effectively and make informed decisions about their products.",
+        badges: ["Ruby on Rails", "Rspec", "PostgresSQL", "Cloudflare"],
+        live: "https://distiller.com/",
     },
     {
         title: "Geolava",
