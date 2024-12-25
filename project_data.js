@@ -9,6 +9,15 @@ export const project_data = [
         live: "https://www.musictraveler.com/en/",
     },
     {
+        title: "Bemusic",
+        image: "bemusic.png",
+        subtitle: "Multi-purpose music sharing and streaming platform",
+        description:
+            "BeMusic can be used to create many different types of music sites. Here are just a few examples of what's possible out of the box. Allow users to set up their profile and upload and share their songs and albums with others. Uploaded tracks will get auto-generated waveforms. Users can comment, repost, like and embed their favorite tracks and albums.Create automated or manually managed channels to display content matching specific criteria or ordered by a particular value. For example, top 50 tracks by plays, newly released albums, popular genres, albums ordered by plays and more.",
+        badges: ["Angular", "Laravel", "PostgresSQL", "Digital Ocean"],
+        live: "https://bemusic.vebto.com/",
+    },
+    {
         title: "Geolava",
         image: "geolava.png",
         subtitle: "AI-driven Real Estate Management Platform",
