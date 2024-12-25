@@ -1,40 +1,56 @@
 export const project_data = [
     {
-        title: "Online Auction System",
-        image: "online-auction.png",
+        title: "Music Traveler",
+        subtitle: "Online Booking System for Musical Spaces",
+        image: "music-traveler.png",
         description:
-            "The Online Auction System is a web application where users can bid on items in real-time. Sellers can list their items with details like name, description, price, and photos. Buyers can place bids on these items until the auction ends. The highest bid at the end of the auction wins the item. The system includes features like user registration, bidding history, and countdown timers for each auction.",
-        badges: ["React js", "Tailwind css", "Express js", "MongoDB", "Redux"],
-        github:
-            "https://github.com/theavnishkumar/online-auction-system",
-        live: "https://auction.kipa.me",
+            "Music traveler is an online platform designed to allow musicians, bands, event organizers, and music enthusiasts to find and book spaces for their musical activities. These spaces can range from rehearsal rooms, recording studios, live performance venues, to practice spaces. The system streamlines the process of discovering, booking, and managing these spaces, improving efficiency for both space providers and users.",
+        badges: ["Django", "Bootstrap", "PostgresSQL", "Stored Procedure", "Heroku"],
+        live: "https://www.musictraveler.com/en/",
     },
     {
-        title: "Personal Finance Management App",
-        image: "pfms.png",
+        title: "Geolava",
+        image: "geolava.png",
+        subtitle: "AI-driven Real Estate Management Platform",
         description:
-            "Personal Financial Management App is a user-friendly application built with React, Tailwind CSS, Express, and MongoDB. It allows users to create accounts, log in securely, and manage their expenses by adding, deleting, and modifying entries. Users can filter expenses by date, month, or year, and visualize their spending with a pie chart, making financial tracking simple and intuitive.",
-        badges: ["React js", "Tailwind css", "Express js", "MongoDB"],
-        github:
-            "https://github.com/theavnishkumar/personal-finance-management-app",
-        live: "https://money.kipa.me",
+            "Geolava is a AI driven digital solution that facilitates the management, buying, selling, leasing, and renting of properties. It serves as a centralized hub for property owners, managers, agents, and tenants to efficiently handle various real estate activities through an easy-to-use online interface. The platform can be designed for residential, commercial, or mixed-use real estate, and often includes tools for managing property listings, tracking transactions, collecting rent, and maintaining communication between parties involved.",
+        badges: ["Next.js", "Tailwind css", "Firebase", "GCP", "LLM", "OpenAI"],
+        live: "https://geolava.com/",
     },
     {
-        title: "URL Shortener",
-        image: "url-shortener.png",
+        title: "Lamps",
+        image: "lamps.png",
+        subtitle: "Logistics and Manufacturing Planning System",
         description:
-            "The URL Shortener Project is a user-friendly web application built on Express.js, EJS, and MongoDB. It simplifies lengthy URLs into shareable, shortened versions, while offering user authentication for signup and login. Users can manage their shortened URLs with ease, and MongoDB integration ensures secure storage of data.",
-        badges: ["EJS", "Express js", "MongoDB"],
-        github: "https://github.com/theavnishkumar/url-Shortener",
-        live: "https://url.ihavetech.com",
+            "Lamps is a comprehensive software solution designed to optimize the planning, scheduling, and management of logistics and manufacturing processes. The system helps businesses manage the end-to-end flow of materials, products, and information, improving supply chain visibility, reducing costs, and enhancing overall operational efficiency. It integrates with various departments such as inventory management, production scheduling, procurement, transportation, and warehousing.",
+        badges: ["ASP.NET", "Angular", "MSSQL", "Stored Procedure", "Azure", "DevOps"],
+        live: "https://lampsnew.corp.osoftec.com/",
     },
     {
-        title: "Library Management System",
-        image: "java.png",
+        title: "Snag Solutions",
+        image: "snag-solutions.png",
+        subtitle: "Digital Asset Trading and Minting Platform",
         description:
-            "I created a Library Management System using Java, NetBeans, and MySQL. It's like having a virtual librarian to keep track of books, users, and lending activities. With a user-friendly interface designed in NetBeans, navigating through the system feels intuitive and smooth. Behind the scenes, MySQL ensures that all library data is safely stored and easily accessible. ",
-        badges: ["JAVA", "MySql", "Netbeans"],
-        github: "https://github.com/theavnishkumar/LibraryManagement",
-        live: "https://github.com/theavnishkumar/LibraryManagement",
+            "Online system for creating a fully customizable platform with integrated features such as a marketplace, loyalty program, social interactions, trading, minting, and more involves a multi-faceted approach. The platform should enable users to trade, mint, and engage with digital assets like NFTs, products, and services in a secure and user-friendly environment. Below is an outline of the components required to build this platform and the technologies you could use to create such a solution.",
+        badges: ["Nextjs", "PostgresSQL", "Tailwind css", "AWS", "Web3", "Solidity"],
+        live: "https://www.snagsolutions.io/",
+    },
+    {
+        title: "Roads",
+        image: "roads.png",
+        subtitle: "Route Optimization and Dispatching System",
+        description:
+            "Roads is an online platform that helps optimize delivery routes, ensure efficient dispatching, and improve customer satisfaction by reducing delivery times and operational costs. It integrates real-time data, machine learning, and advanced algorithms to make better decisions on route planning and resource allocation.",
+        badges: ["ASP.NET", "Angular", "MSSQL", "Stored Procedure", "Azure", "DevOps"],
+        live: "https://roadsdev.corp.osoftec.com/",
+    },
+    {
+        title: "Apecoin Marketplace",
+        subtitle: "NFT Marketplace for Digital Creators",
+        image: "apecoin.png",
+        description:
+            "is a digital platform where users can create, buy, sell, and trade non-fungible tokens (NFTs). NFTs are unique digital assets that represent ownership of specific items, such as art, music, video, or virtual goods, verified on a blockchain. The marketplace serves as a hub for NFT creators, collectors, and traders to exchange these assets seamlessly and securely.",
+        badges: ["Nextjs", "Tailwind css", "AWS", "Web3", "OpenSeaAPI"],
+        live: "https://www.apecoinmarketplace.com/",
     },
 ];

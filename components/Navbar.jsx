@@ -38,24 +38,13 @@ const Navbar = () => {
       {/* Right Section */}
       <section className="w-1/4 max-md:w-1/2 max-lg:w-1/3 flex justify-end items-center max-[375px]:hidden">
         <Link
-          href="mailto:hi@theavnishkumar.in"
+          href="mailto:thomasfeeney117@gmail.com"
           className="flex items-center px-3 py-2 bg-emerald-700 hover:bg-emerald-800 rounded-md text-white outline-none focus:ring-1 shadow-lg transform active:scale-y-95 transition-transform mx-5"
           aria-label="Hire Me Button"
         >
           <FaBriefcase />
           <span className="ml-1.5">Hire Me</span>
         </Link>
-
-        {/* <Link href="mailto:hi@theavnishkumar.in">
-          <button
-            className="flex items-center px-3 py-2 bg-emerald-700 hover:bg-emerald-800 rounded-md text-white outline-none focus:ring-1 shadow-lg transform active:scale-y-95 transition-transform mx-5"
-            aria-label="Hire Me Button"
-          >
-            <FaBriefcase />
-            <span className="ml-1.5">Hire Me</span>
-          </button>
-        </Link> */}
-        
       </section>
     </nav>
   );

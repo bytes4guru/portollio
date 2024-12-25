@@ -17,26 +17,9 @@ export const EmailTemplate = ({ messageData, name, email }) => (
           <p style={{ padding: "8px" }}>{messageData}</p>
         </p>
         <h4 style={{ color: "#6c757d" }}>Email: {email}</h4>
-        {/* <a
-          href="https://theavnishkumar.in"
-          style={{
-            display: "inline-block",
-            color: "#fff",
-            backgroundColor: "#007bff",
-            padding: "10px 20px",
-            textDecoration: "none",
-            borderRadius: "3px",
-          }}
-        >
-          Visit Portfolio
-        </a> */}
-        {/* <p style={{ fontSize: "0.875rem", color: "#6c757d" }}>
-          Thank you for your time,
-        </p>
-        <p style={{ fontSize: "0.875rem", color: "#6c757d" }}>Avnish Kumar</p> */}
       </section>
       <p style={{ textAlign: "center", color: "#6c757d" }}>
-        © 2024 Avnish Kumar. All rights reserved.
+        © 2024 Thomas Feeney. All rights reserved.
       </p>
     </section>
   </section>
@@ -62,11 +45,11 @@ export const EmailTemplate2 = ({ name }) => (
           <br />
           {`Best Regards,`}
           <br />
-          {`Avnish Kumar`}
+          {`Thomas Feeney`}
           <br />
         </p>
         <a
-          href="https://theavnishkumar.in"
+          href="https://thomas.in"
           style={{
             display: "inline-block",
             color: "#fff",
@@ -80,7 +63,7 @@ export const EmailTemplate2 = ({ name }) => (
         </a>
       </section>
       <p style={{ textAlign: "center", color: "#6c757d" }}>
-        © 2024 Avnish Kumar. All rights reserved.
+        © 2024 Thomas Feeney. All rights reserved.
       </p>
     </section>
   </section>

@@ -8,7 +8,7 @@ const Footer = () => {
     {
       id: 1,
       name: "Linkedin",
-      link: "https://linkedin.com/in/thomas-feeney117",
+      link: "https://www.linkedin.com/in/thomas-feeney-a4b617343/",
       icon: <FaExternalLinkAlt />,
     },
     {
@@ -19,31 +19,19 @@ const Footer = () => {
     },
     {
       id: 4,
-      name: "X (Twitter)",
-      link: "https://x.com/thomas-feeney117",
+      name: "Telegram",
+      link: "https://t.me/codeastronomer",
       icon: <FaExternalLinkAlt />,
     },
     {
       id: 5,
-      name: "Instagram",
-      link: "https://instagram.com/thomas-feeney117",
+      name: "Skype",
+      link: "skype:live:.cid.1652dd0b337065d7",
       icon: <FaExternalLinkAlt />,
     },
   ];
 
   const credit = [
-    {
-      id: 1,
-      name: "Get Waves",
-      link: "https://getwaves.io/",
-      icon: <FaExternalLinkAlt />,
-    },
-    // {
-    //   id: 2,
-    //   name: "Shapes",
-    //   link: "https://bgjar.com/animated-shape",
-    //   icon: <FaExternalLinkAlt />,
-    // },
     {
       id: 3,
       name: "React Icons",
