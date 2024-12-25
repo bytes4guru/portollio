@@ -23,7 +23,7 @@ export const project_data = [
         subtitle: "Digital solution for managing businesses",
         description:
             "Digicollect is a technology platform that provides intelligent, industrial solutions for companies within our focus sectors. It utilizes process rationalization to implement a digital platform while delivering business intelligence and adding value. It provides products and solutions for businesses at all phases of their growth cycle. From start-ups to mature businesses. It helps our customers adapt to a digital landscape to increase revenues and efficiency while reducing costs.",
-        badges: ["Vue", "Django", "PostgresSQL", "Digital Ocean"],
+        badges: ["Vue", "Django", "PostgresSQL", "GoDaddy"],
         live: "https://bemusic.vebto.com/",
     },
     {
